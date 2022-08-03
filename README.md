@@ -30,6 +30,9 @@
     ·
     <a href="https://github.com/nburnet1/bigrat-search/issues">Request Feature</a>
   </p>
+  <video controls loop>
+    <source src="https://github.com/nburnet1/bigrat-search/ratstack.mp4" type="video/mp4">
+  </video>
 </div>
 
 [contributors-shield]: https://img.shields.io/github/contributors/nburnet1/bigrat-search.svg?style=for-the-badge
