@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bigrat-search/static/css/main.1b5c9b4c.css",
+    "main.js": "/bigrat-search/static/js/main.b6e5bdd7.js",
+    "static/js/787.fb142c9a.chunk.js": "/bigrat-search/static/js/787.fb142c9a.chunk.js",
+    "index.html": "/bigrat-search/index.html",
+    "main.1b5c9b4c.css.map": "/bigrat-search/static/css/main.1b5c9b4c.css.map",
+    "main.b6e5bdd7.js.map": "/bigrat-search/static/js/main.b6e5bdd7.js.map",
+    "787.fb142c9a.chunk.js.map": "/bigrat-search/static/js/787.fb142c9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b5c9b4c.css",
+    "static/js/main.b6e5bdd7.js"
+  ]
+}
